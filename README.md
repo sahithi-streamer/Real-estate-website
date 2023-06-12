@@ -11,8 +11,6 @@ View property details
 
 Built-in Chat Application for communication between owner and tenant
 
-Secure JWT authentication using access and refresh tokens
-
 Send emails between owner and tenant
 
 Create Property Contract
