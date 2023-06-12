@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Real-Estate-Rental-and-Tenant-Management-System/static/css/main.4e8e58e6.css",
+    "main.js": "/Real-Estate-Rental-and-Tenant-Management-System/static/js/main.d92363d7.js",
+    "static/media/postRealEstateImg3.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/postRealEstateImg3.094eca141a4d8a6cc4bae57df7fa069c.svg",
+    "static/media/logo.png": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/logo.b6d9737b02e865990f0e.png",
+    "static/media/about2.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/about2.6518e218d20f07144ea683a51030c3e2.svg",
+    "static/media/about1.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/about1.0232b68d42cadfc6994931741904541d.svg",
+    "static/media/verifyEmail.png": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/verifyEmail.358e6e318061235adfce.png",
+    "static/media/landingTitle.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/landingTitle.5274b5229d1be4279e6a6cab618cac11.svg",
+    "static/media/landing1.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/landing1.7a76073bf35c33d78e59d5a975033f67.svg",
+    "static/media/createRentImage.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/createRentImage.10f6971325112ef031867434bfdee06f.svg",
+    "static/media/payment.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/payment.2ca7a164c3b4bb1cb5acca1d67480c33.svg",
+    "static/media/landing2.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/landing2.cb1f60a67179a03a4a66888ced42e7bd.svg",
+    "static/media/createContract.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/createContract.b0063d0a7095e65cf27f6e52157ffe0c.svg",
+    "static/media/registerImg.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/registerImg.fe6a3b8fae933d14e9535acbf98dd6a3.svg",
+    "static/media/postRealEstateImg.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/postRealEstateImg.79ce4d96c96c6980aab99e6c0208ee03.svg",
+    "static/media/Page-Not-Found.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/Page-Not-Found.36e847c0ad13cf3e4a8a6bda4993848d.svg",
+    "static/media/loginImg.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/loginImg.741ceb41d048e7119de2698725b2e6af.svg",
+    "static/media/postRealEstateImg2.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/postRealEstateImg2.b6ef9cf43ccdea16c9cbdac43bc2b5fd.svg",
+    "static/media/contractApproved.svg": "/Real-Estate-Rental-and-Tenant-Management-System/static/media/contractApproved.320344be39cbaa523285cf33b4ef6dde.svg",
+    "index.html": "/Real-Estate-Rental-and-Tenant-Management-System/index.html",
+    "main.4e8e58e6.css.map": "/Real-Estate-Rental-and-Tenant-Management-System/static/css/main.4e8e58e6.css.map",
+    "main.d92363d7.js.map": "/Real-Estate-Rental-and-Tenant-Management-System/static/js/main.d92363d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8e58e6.css",
+    "static/js/main.d92363d7.js"
+  ]
+}
